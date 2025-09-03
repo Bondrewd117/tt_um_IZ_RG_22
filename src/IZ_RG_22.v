@@ -110,8 +110,8 @@ module IZ_RG_22(
 
     reg [1:0] STATE;
 
-    always @(posedge clk or posedge rst) begin
-        if (rst) begin
+    always @(posedge clk or negedge rst) begin
+        if (!rst) begin
             a <= 0;  // Maintain current value by default
             b <= 0;
             c <= 0;
