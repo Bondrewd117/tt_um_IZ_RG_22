@@ -1,9 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1756927683" />
-    <testcase name="test_project_0d" classname="test" file="/home/salieri/tt_um_IZ_RG_22/test/test.py" lineno="9" time="1.6452605724334717" sim_time_ns="1997500.001" ratio_time="1214093.3992270525" />
-    <testcase name="test_project_8d" classname="test" file="/home/salieri/tt_um_IZ_RG_22/test/test.py" lineno="100" time="0.3650174140930176" sim_time_ns="438800.00099999993" ratio_time="1202134.429915665" />
-    <testcase name="test_project_16d" classname="test" file="/home/salieri/tt_um_IZ_RG_22/test/test.py" lineno="192" time="0.3629415035247803" sim_time_ns="438800.00100000016" ratio_time="1209010.2585086154" />
-    <testcase name="test_project_24d" classname="test" file="/home/salieri/tt_um_IZ_RG_22/test/test.py" lineno="283" time="0.7251887321472168" sim_time_ns="877600.0010000002" ratio_time="1210167.7288910814" />
-  </testsuite>
-</testsuites>
